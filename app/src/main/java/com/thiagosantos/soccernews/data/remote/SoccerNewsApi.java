@@ -1,6 +1,6 @@
 package com.thiagosantos.soccernews.data.remote;
 
-import com.thiagosantos.soccernews.ui.domain.News;
+import com.thiagosantos.soccernews.domain.News;
 
 import java.util.List;
 
